@@ -1,7 +1,6 @@
 # 排除开发文档、发布包、构建产物、spec文件
 dev-doc/
 build/
-main.spec
 
 # 一些常见的 Python 临时文件或 IDE 缓存文件
 __pycache__/
