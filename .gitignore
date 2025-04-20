@@ -1,6 +1,5 @@
 # 排除开发文档、发布包、构建产物、spec文件
 dev-doc/
-release/
 build/
 main.spec
 
